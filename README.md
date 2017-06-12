@@ -19,5 +19,7 @@
 
 
 
-
 ![TridentArduinoTheme](TridentArduinoTheme.png)
+
+12 มิถุนายน พ.ศ.2560
+วันจันทร์ แรม ๓ ค่ำ เดือน ๗ ปีระกา
