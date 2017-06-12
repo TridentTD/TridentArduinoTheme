@@ -1,0 +1,122 @@
+# GUI - BUTTONS
+buttons.bgcolor = #6f6f6f
+buttons.status.font = SansSerif,plain,13
+buttons.status.color = #ffffff
+
+
+# GUI - TABS
+# settings for the tabs at the top
+# (tab images are stored in the lib/theme folder)
+header.bgcolor = #a2a2a2
+header.text.selected.color = #ffffff
+header.text.unselected.color = #ffffff
+header.text.font = SansSerif,plain,14
+
+
+# EDITOR
+# foreground and background colors
+editor.fgcolor = #ededed
+editor.bgcolor = #232323
+
+# highlight for the current line
+editor.linehighlight.color=#4d4d4d
+# highlight for the current line
+editor.linehighlight=true
+
+# caret blinking and caret color
+editor.caret.color = #ffffff
+
+# color to be used for background when 'external editor' enabled
+editor.external.bgcolor = #c8d2dc
+
+## cursor background selection color
+editor.selection.color = #4f4f4f
+
+# area that's not in use by the text (replaced with tildes)
+editor.invalid.style = #7e7e7e,bold
+
+# little pooties at the end of lines that show where they finish
+editor.eolmarkers = false
+editor.eolmarkers.color = #ffffff
+
+# bracket/brace highlighting
+editor.brackethighlight = true
+editor.brackethighlight.color = #ff0000
+
+# TEXT - KEYWORDS
+# FUNCTIONS e.g abstract, final, private (void, for, while) (blue)
+editor.keyword1.style = #5ec7ff,plain
+# include_file_name, Class_name, Serial, WiFi
+editor.data_type.style = #4da6ff,bold
+
+# METHODS e.g. beginShape, point, line (int, pinMode, analogwrite) (red)
+editor.keyword2.style = #f2527b,plain
+editor.function.style = #A6E22E,plain
+
+# STRUCTURES e.g. byte, char, short, color (setup, loop, Serial) (yellow)
+editor.keyword3.style = #ffd95e,bold
+editor.reserved_word.style = #F92672,bold
+
+# TEXT - LITERALS
+# constants: e.g. null, true, this, RGB, TWO_PI
+editor.literal1.style = #ff9900,bold
+
+# p5 built in variables: e.g. mouseX, width, pixels
+editor.literal2.style = #5ec7ff,plain
+
+editor.variable.style = #cc99ff,plain
+editor.reserved_word_2.style = #00ffff,plain
+editor.literal_boolean.style = #cc99ff,plain
+editor.literal_char.style = #ffffcc,plain
+editor.literal_string_double_quote.style = #fffdbf,bold
+editor.preprocessor.style = #F92672,plain
+
+# http://arduino.cc/
+editor.url.style = #47a3ff,underlined
+
+# e.g. + - = /
+editor.operator.style = #ffffff,plain
+
+# ?? maybe this is for words followed by a colon
+# like in case statements or goto
+editor.label.style = #969696,bold
+
+# TEXT - COMMENTS
+editor.comment1.style = #75715E,plain
+editor.comment2.style = #75715E,plain
+
+
+# GUI - STATUS
+status.notice.fgcolor = #aaaaaa
+status.notice.bgcolor = #363636
+status.error.fgcolor = #ffffff
+status.error.bgcolor = #805a51
+status.edit.fgcolor = #000000
+status.edit.bgcolor = #cc9900
+status.font = SansSerif,plain,14
+
+
+# GUI - CONSOLE
+console.font = Monospaced,plain,12
+console.font.macosx = Monaco,plain,11
+console.color = #000000
+console.output.color = #ffffff
+console.error.color = #e34c00
+
+
+# GUI - LINESTATUS(bar at the bottom of the screen)
+linestatus.color = #ffffff
+linestatus.bgcolor = #424242
+linestatus.font	   = SansSerif,plain,14
+linestatus.height  = 20
+
+
+# GUI - PLOTTING
+# color cycle created via colorbrewer2.org
+plotting.bgcolor = #ffffff
+plotting.color = #ffffff
+plotting.graphcolor.size = 4
+plotting.graphcolor.00 = #2c7bb6
+plotting.graphcolor.01 = #fdae61
+plotting.graphcolor.02 = #d7191c
+plotting.graphcolor.03 = #abd9e9
