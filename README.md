@@ -1,5 +1,5 @@
 **Sublime-like Theme for ArduinoIDE**
-# TridentArduinoTheme
+# Trident Arduino Theme
 
 วิธีการติดตั้ง "ธีม"" นี้ ให้ ArduinoIDE
 ------
