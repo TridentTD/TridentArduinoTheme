@@ -114,9 +114,9 @@ linestatus.height  = 20
 # GUI - PLOTTING
 plotting.bgcolor = #232323
 plotting.color = #ffffff
-plotting.gridcolor = #ffffff
-# plotting.boundscolor = #F8F8F2
-plotting.boundscolor = #a7a4a9
+plotting.gridcolor = #000000
+plotting.boundscolor = #F8F8F2
+# plotting.boundscolor = #a7a4a9
 plotting.graphcolor.size = 16
 plotting.graphcolor.00 = #2c7bb6
 plotting.graphcolor.01 = #fdae61
